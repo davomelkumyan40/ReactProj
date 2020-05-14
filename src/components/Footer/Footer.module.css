@@ -1,0 +1,13 @@
+.footer{
+    background-color: darkgreen;
+    grid-area: f;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    align-items: center;
+    justify-items: center;
+    min-height: 100px;
+}
+
+.item{
+   color: white; 
+}
